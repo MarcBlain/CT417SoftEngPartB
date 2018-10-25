@@ -14,7 +14,7 @@ public class Driver {
         batch1.add(new Student("Marc Blain", "12-03-1989", studentcount++));
         batch1.add(new Student("Diarmuid Beirne", "12-03-1989", studentcount++)); 
         batch1.add(new Student("Steven Noonan", "12-03-1989", studentcount++));
-        batch1.add(new Student("Alan Devane", "12-03-1989", studentcount++));
+        batch1.add(new Student("Alan Devane", "15-03-1989", studentcount++));
         
         final Module m1 = new Module("Software Engineering", "CT100");
         final Module m2 = new Module("Professional Skills", "CT200");
